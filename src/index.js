@@ -30,6 +30,7 @@ class Forecast {
 			['projects'],
 			['assignments'],
 			['milestones'],
+			['placeholders'],
 			['roles'],
 		];
 
